@@ -1,19 +1,29 @@
-## Roma Kovach
-### Python and C++ developer
-### 18 y.o. 
-### English level B2
+## Roman Kovach
 
-<!--
-**withoutforget/withoutforget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Age: 18
+* Into Python and C++
 
-Here are some ideas to get you started:
+**Languages:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Russian (Native speaker)
+* English (B2 - Upper Intermediate)
+
+**Skills:**
+
+* **Python:**
+    * FastAPI
+    * Aiogram
+    * Django
+* **C++:**
+    * ImGui
+    * Backend
+    * Lexical Analysis
+* **Databases:**
+    * PostgreSQL
+    * MySQL
+    * Redis
+
+**Operating Systems:**
+
+* Linux
+* Windows
