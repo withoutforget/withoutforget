@@ -1,4 +1,7 @@
-## Hi there 👋
+## Roma Kovach
+### Python and C++ developer
+### 18 y.o. 
+### English level B2
 
 <!--
 **withoutforget/withoutforget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
