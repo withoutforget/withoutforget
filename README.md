@@ -1,7 +1,7 @@
 ## Roman Kovach
 
-* Age: 18
-* Into Python and C++
+* 18 y.o. backend dev
+* Into C++ & Python.
 
 **Languages:**
 
@@ -9,19 +9,22 @@
 * English (B2 - Upper Intermediate)
 
 **Skills:**
-* Docker
 * **Python:**
     * FastAPI
-    * Aiogram
-    * Django
+    * aiogram
+    * SQLAlchemy & Alembic
 * **C++:**
     * ImGui
-    * Backend
-    * Lexical Analysis
+    * curl
 * **Databases:**
     * PostgreSQL
     * MySQL
     * Redis
+* **Other**
+    * Docker
+    * git
+    * Make, CMake
+    * ruff, clang-format
 
 **Operating Systems:**
 
