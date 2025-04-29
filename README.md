@@ -9,7 +9,7 @@
 * English (B2 - Upper Intermediate)
 
 **Skills:**
-
+* Docker
 * **Python:**
     * FastAPI
     * Aiogram
