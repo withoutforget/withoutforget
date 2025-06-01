@@ -10,8 +10,8 @@
 
 **Skills:**
 * **Python:**
-    * FastAPI
-    * aiogram
+    * FastAPI, FastStream
+    * Aiogram
     * SQLAlchemy & Alembic
 * **C++:**
     * ImGui
